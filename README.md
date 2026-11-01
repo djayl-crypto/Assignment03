@@ -18,6 +18,8 @@ EGIS 도엽의 서울 전체 외접 범위 커버리지는 최대 **96.07%**다.
 
 ## 보고서와 재현
 
+[공개 웹 보고서 열기](https://assignment03-seoul-report.pages.dev/)
+
 웹 보고서는 저장된 [25개 구 집계 JSON](public/data/report.json)과 경계·표시용 도형으로 빌드되며, 브라우저에서 원자료 API나 비밀키를 사용하지 않는다. 지도에서 Density와 LQ를 비교하고, 산점도·순위·보정 전후 그래프·정렬표를 살펴보거나 CSV를 내려받을 수 있다.
 
 ```powershell
