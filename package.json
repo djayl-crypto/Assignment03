@@ -1,0 +1,21 @@
+{
+  "name": "assignment03-seoul-renewal-analysis",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build",
+    "typecheck": "tsc --noEmit",
+    "prepare:web": "python scripts/prepare_web_data.py",
+    "test": "python -m unittest discover -s tests -v",
+    "prepare:boundary": "python scripts/prepare_boundary.py",
+    "collect:renewal": "python scripts/collect_renewal.py",
+    "prepare:renewal": "python scripts/prepare_renewal.py",
+    "collect:housing": "python scripts/collect_housing.py",
+    "analyze": "python scripts/analyze.py",
+    "validate:data": "python scripts/validate_outputs.py"
+  },
+  "dependencies": {"react": "^19.2.0", "react-dom": "^19.2.0"},
+  "devDependencies": {"@types/react": "^19.2.0", "@types/react-dom": "^19.2.0", "@vitejs/plugin-react": "^5.1.0", "typescript": "~5.9.3", "vite": "^7.2.0"}
+}

@@ -1,0 +1,12 @@
+{
+  "checked_on": "2026-11-01",
+  "districts": 25,
+  "renewal_records": 358,
+  "official_seoul_housing_totals_reconciled": true,
+  "boundary_crs_calculation": "EPSG:5179",
+  "secrets_found_in_public_build_source": false,
+  "files_scanned": 47,
+  "landcover_area_check": "passed",
+  "landcover_coverage": "partial_bbox_upper_bound",
+  "final_priority_classification": "provisional"
+}

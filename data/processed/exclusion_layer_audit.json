@@ -1,0 +1,17 @@
+{
+  "source_files": 125,
+  "display_crs": "EPSG:4326",
+  "calculation_crs": "EPSG:5179",
+  "simplify_m": 15,
+  "note": "Display geometry only; exact analytical areas come from landcover_areas.csv.",
+  "forest": {
+    "source_polygons": 6740,
+    "exact_clipped_km2": 133.5957305296083,
+    "display_simplified_km2": 133.69897222643544
+  },
+  "water": {
+    "source_polygons": 1732,
+    "exact_clipped_km2": 31.913782782096813,
+    "display_simplified_km2": 31.79988794901864
+  }
+}

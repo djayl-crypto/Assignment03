@@ -1,0 +1,208 @@
+{
+  "checked_on": "2026-11-01",
+  "source": "user-supplied EGIS land-cover shapefiles",
+  "tile_count": 125,
+  "feature_count": 329635,
+  "crs_epsg_counts": {
+    "5186": 125
+  },
+  "img_date_attribute_counts": {
+    "2010-12-31": 329633,
+    "2012-12-31": 2
+  },
+  "class_code_counts": {
+    "111": 62645,
+    "112": 61725,
+    "121": 1698,
+    "131": 74736,
+    "132": 261,
+    "141": 6954,
+    "151": 128,
+    "153": 246,
+    "154": 3293,
+    "155": 375,
+    "161": 640,
+    "162": 7578,
+    "163": 12757,
+    "211": 702,
+    "212": 238,
+    "221": 711,
+    "222": 7131,
+    "231": 4234,
+    "241": 308,
+    "251": 63,
+    "252": 808,
+    "311": 2898,
+    "321": 2044,
+    "331": 1798,
+    "411": 8514,
+    "421": 127,
+    "422": 1303,
+    "423": 46387,
+    "511": 1853,
+    "612": 549,
+    "613": 1307,
+    "621": 3,
+    "622": 2130,
+    "623": 11759,
+    "711": 1353,
+    "712": 379
+  },
+  "invalid_geometry_count": 405,
+  "empty_geometry_count": 0,
+  "city_bbox_coverage_upper_bound": 0.9607003125612882,
+  "district_bbox_coverage": [
+    {
+      "district": "종로구",
+      "source_code": "11010",
+      "bbox_coverage_upper_bound": 1.000000000000001,
+      "bbox_uncovered_km2_lower_bound": 0.0
+    },
+    {
+      "district": "중구",
+      "source_code": "11020",
+      "bbox_coverage_upper_bound": 0.9999999999999994,
+      "bbox_uncovered_km2_lower_bound": 0.0
+    },
+    {
+      "district": "용산구",
+      "source_code": "11030",
+      "bbox_coverage_upper_bound": 0.9999999999999964,
+      "bbox_uncovered_km2_lower_bound": 0.0
+    },
+    {
+      "district": "성동구",
+      "source_code": "11040",
+      "bbox_coverage_upper_bound": 0.9999999999999978,
+      "bbox_uncovered_km2_lower_bound": 0.0
+    },
+    {
+      "district": "광진구",
+      "source_code": "11050",
+      "bbox_coverage_upper_bound": 1.0000000000000009,
+      "bbox_uncovered_km2_lower_bound": 0.0
+    },
+    {
+      "district": "동대문구",
+      "source_code": "11060",
+      "bbox_coverage_upper_bound": 1.0000000000000004,
+      "bbox_uncovered_km2_lower_bound": 0.0
+    },
+    {
+      "district": "중랑구",
+      "source_code": "11070",
+      "bbox_coverage_upper_bound": 0.6919884614506607,
+      "bbox_uncovered_km2_lower_bound": 5.709747095998658
+    },
+    {
+      "district": "성북구",
+      "source_code": "11080",
+      "bbox_coverage_upper_bound": 1.0000000000000069,
+      "bbox_uncovered_km2_lower_bound": 0.0
+    },
+    {
+      "district": "강북구",
+      "source_code": "11090",
+      "bbox_coverage_upper_bound": 0.9999999999999988,
+      "bbox_uncovered_km2_lower_bound": 0.0
+    },
+    {
+      "district": "도봉구",
+      "source_code": "11100",
+      "bbox_coverage_upper_bound": 0.9999999999999969,
+      "bbox_uncovered_km2_lower_bound": 0.0
+    },
+    {
+      "district": "노원구",
+      "source_code": "11110",
+      "bbox_coverage_upper_bound": 0.553242966354945,
+      "bbox_uncovered_km2_lower_bound": 15.900648250501447
+    },
+    {
+      "district": "은평구",
+      "source_code": "11120",
+      "bbox_coverage_upper_bound": 0.9999998169226263,
+      "bbox_uncovered_km2_lower_bound": 5.454950865366639e-06
+    },
+    {
+      "district": "서대문구",
+      "source_code": "11130",
+      "bbox_coverage_upper_bound": 1.0000000000000004,
+      "bbox_uncovered_km2_lower_bound": 0.0
+    },
+    {
+      "district": "마포구",
+      "source_code": "11140",
+      "bbox_coverage_upper_bound": 1.0000000000000022,
+      "bbox_uncovered_km2_lower_bound": 0.0
+    },
+    {
+      "district": "양천구",
+      "source_code": "11150",
+      "bbox_coverage_upper_bound": 0.9999999999999987,
+      "bbox_uncovered_km2_lower_bound": 0.0
+    },
+    {
+      "district": "강서구",
+      "source_code": "11160",
+      "bbox_coverage_upper_bound": 0.9999999999999998,
+      "bbox_uncovered_km2_lower_bound": 0.0
+    },
+    {
+      "district": "구로구",
+      "source_code": "11170",
+      "bbox_coverage_upper_bound": 0.9979025219595666,
+      "bbox_uncovered_km2_lower_bound": 0.042154931990273176
+    },
+    {
+      "district": "금천구",
+      "source_code": "11180",
+      "bbox_coverage_upper_bound": 0.9999999999999993,
+      "bbox_uncovered_km2_lower_bound": 0.0
+    },
+    {
+      "district": "영등포구",
+      "source_code": "11190",
+      "bbox_coverage_upper_bound": 1.0000000000000016,
+      "bbox_uncovered_km2_lower_bound": 0.0
+    },
+    {
+      "district": "동작구",
+      "source_code": "11200",
+      "bbox_coverage_upper_bound": 0.9999999999999986,
+      "bbox_uncovered_km2_lower_bound": 0.0
+    },
+    {
+      "district": "관악구",
+      "source_code": "11210",
+      "bbox_coverage_upper_bound": 1.0000000000000007,
+      "bbox_uncovered_km2_lower_bound": 0.0
+    },
+    {
+      "district": "서초구",
+      "source_code": "11220",
+      "bbox_coverage_upper_bound": 0.9999999999999966,
+      "bbox_uncovered_km2_lower_bound": 0.0
+    },
+    {
+      "district": "강남구",
+      "source_code": "11230",
+      "bbox_coverage_upper_bound": 0.9999999999999973,
+      "bbox_uncovered_km2_lower_bound": 0.0
+    },
+    {
+      "district": "송파구",
+      "source_code": "11240",
+      "bbox_coverage_upper_bound": 0.9999999999999951,
+      "bbox_uncovered_km2_lower_bound": 0.0
+    },
+    {
+      "district": "강동구",
+      "source_code": "11250",
+      "bbox_coverage_upper_bound": 0.9123080530461135,
+      "bbox_uncovered_km2_lower_bound": 2.153453196108109
+    }
+  ],
+  "coverage_note": "Tile bounding boxes overestimate actual polygon coverage. Values below 0.999 definitively fail the 99.9% coverage gate.",
+  "reference_date_note": "IMG_DATE is a source attribute; the formal map production year is not established by these files."
+}

@@ -1,0 +1,14 @@
+{
+  "year": 2025,
+  "districts": 25,
+  "old_homes_district_sum": 960148,
+  "homes_district_sum": 3215847,
+  "old_homes_official_seoul": 960148,
+  "homes_official_seoul": 3215847,
+  "old_homes_sum_matches_official": true,
+  "homes_sum_matches_official": true,
+  "source_tables": {
+    "old_homes": "DT_1JU1521/T00/B130",
+    "homes": "DT_1JU1501/T10"
+  }
+}

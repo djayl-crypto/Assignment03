@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+data/raw/
+data/private/
+data/processed/*.gpkg
+*.log
+__pycache__/
+.pytest_cache/
+.venv/
+node_modules/
+dist/
+.npm-cache/

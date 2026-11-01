@@ -1,0 +1,24 @@
+{
+  "source_records": 496,
+  "unique_business_ids": 496,
+  "included_records": 358,
+  "excluded_records": 138,
+  "districts": 25,
+  "types": {
+    "도시정비형 재개발": 138,
+    "주택정비형 재개발": 164,
+    "아파트지구재건축": 40,
+    "단독주택재건축": 28,
+    "공동주택재건축": 126
+  },
+  "stages": {
+    "건축심의": 44,
+    "사업시행": 66,
+    "조합설립": 124,
+    "착공": 62,
+    "구역지정": 52,
+    "관리처분": 75,
+    "추진위": 73
+  },
+  "rule": "Include four residential redevelopment/reconstruction types at all seven active stages; exclude urban redevelopment type."
+}
